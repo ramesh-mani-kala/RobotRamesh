@@ -1,4 +1,3 @@
-
 Library    SeleniumLibrary
 
 *** Variables ***
